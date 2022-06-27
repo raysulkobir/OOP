@@ -11,7 +11,6 @@
             function __construct($userName, $userId){
                 $this->user = $userName;
                 $this->userid =$userId;
-                
                 echo "User Name {$this->user} and user Id:{$this->userid}";
              }
              
@@ -31,7 +30,5 @@
          echo "<br>";
          UserData:: display()
       ?>
-      
-       
     </div>
 <?php include "inc/footer.php"; ?>

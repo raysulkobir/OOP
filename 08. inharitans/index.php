@@ -5,7 +5,7 @@
         class UserData{
             public $user;
             public $userid;
-            
+
             
             function __construct($userName, $userId){
                 $this->user = $userName;
@@ -19,19 +19,21 @@
         
         class Admit extends UserData{
             public $level;
-             public  function display(){
+             public  function displays(){
                  echo "User Name {$this->user} and user Id:{$this->userid} and user level {$this->level}";
              }
         }
-         
+
+        echo "Main class<br>";
          $name = "Md.Rauysul kobir";
          $id = 12345;
          $ur = new UserData($name, $id);
          $ur->display();
-         
+
+         echo "Child class <br>";
          $ab = new Admit($name, $id);
          $ab ->level = "Md.Akram miya";
-         $ab->display()
+         $ab->displays()
        
       ?>
       

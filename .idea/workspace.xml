@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45085b2f-2fd6-4a17-8ed6-03fceddbde30" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/array_change_key_case.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/array_chunk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/array_column.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/array_combine.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/array_count_values.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/array_diff.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/filter/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/filter/inc/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/filter/inc/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/filter/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/part-19 - array_merge_recursive/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/part-19 - array_merge_recursive/inc/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/part-19 - array_merge_recursive/inc/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/part-19 - array_merge_recursive/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/part-20 - array_pad/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/part-20 - array_pad/inc/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/part-20 - array_pad/inc/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/part-20 - array_pad/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/part-21 - array_pop/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/part-21 - array_pop/inc/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/part-21 - array_pop/inc/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/part-21 - array_pop/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/part-22- array_product/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/part-22- array_product/inc/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/part-22- array_product/inc/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/part-22- array_product/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/part-23- array_push/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/part-23- array_push/inc/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/part-23- array_push/inc/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/part-23- array_push/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/part-24- array_rand/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/part-24- array_rand/inc/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/part-24- array_rand/inc/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array All/part-24- array_rand/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educba/01. keywords/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educba/01. keywords/inc/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educba/01. keywords/inc/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educba/01. keywords/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educba/2.Arithmetic Operators/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educba/2.Arithmetic Operators/inc/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educba/2.Arithmetic Operators/inc/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educba/2.Arithmetic Operators/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educba/3.Comparison Operators/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educba/3.Comparison Operators/inc/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educba/3.Comparison Operators/inc/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educba/3.Comparison Operators/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07. staric function/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/07. staric function/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08. inharitans/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/08. inharitans/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zSUko9heyi4rIgtNYhucjDOaeV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Array All" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\laragon\www\OOP\Array All" />
+      <recent name="F:\laragon\www\OOP\educba" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45085b2f-2fd6-4a17-8ed6-03fceddbde30" name="Default Changelist" comment="" />
+      <created>1634141127197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634141127197</updated>
+      <workItem from="1634141128595" duration="2503000" />
+      <workItem from="1634400896434" duration="4186000" />
+      <workItem from="1634489445449" duration="3850000" />
+      <workItem from="1634570881107" duration="3700000" />
+      <workItem from="1641137102945" duration="6525000" />
+      <workItem from="1641148414984" duration="1758000" />
+      <workItem from="1641226765434" duration="6578000" />
+      <workItem from="1641234457734" duration="3382000" />
+      <workItem from="1641740661845" duration="6170000" />
+      <workItem from="1643972726328" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="510" y="178" key="NewPhpClassDialog" timestamp="1641740879892">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="510" y="178" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1641740879892" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1643972726934">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1643972726934" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/educba/01. keywords/index.php</url>
+          <line>3</line>
+          <properties>
+            <option name="className" value="\Program" />
+            <option name="methodName" value="display" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
